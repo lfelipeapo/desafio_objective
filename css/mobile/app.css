@@ -1,0 +1,140 @@
+.hide-on-mobile {
+    display: none !important;
+}
+
+#root {
+    min-height: 480px;
+    min-width: 360px;
+}
+
+#root > div#app {
+    padding: 0;
+    height: 100vh;
+}
+
+.app-header {
+    padding: 12px 40px 0;
+}
+
+.app-title,
+.app-subtitle {
+    line-height: 1.2em;
+    font-size: 16px;
+}
+
+.app-line {
+    padding: 0 40px;
+    height: 2px;
+}
+
+.app-line div {
+    width: 52px;
+}
+
+#search-container {
+    padding: 12px 40px;
+}
+
+#search-container input {
+    width: 100%;
+}
+
+.app-hero-list-header,
+.app-hero-list-row {
+    display: block;
+    width: 100%;
+}
+
+.app-hero-list-header > div {
+    display: block;
+    text-align: left;
+    line-height: 37px;
+    padding: 0 0 0 100px;
+    width: 100%;
+}
+
+.app-hero-list-row {
+    padding: 10px 0;
+    height: 10vh;
+    min-height: 18vw;
+    cursor: pointer;
+}
+
+.app-hero-list-row > div {
+    line-height: 1.1em;
+    padding: 0 18px;
+    width: 100%;
+}
+
+.app-hero-list-row > div:first-child {
+    padding-top: 0px;
+}
+
+.app-hero-list-row > div:first-child > div {
+    width: calc(100% - 58px - 25px);
+    font-size: 4.5vw;
+}
+
+.app-hero-list-row > div:first-child > div > img {
+    width: 6vh;
+    height: 6vh;
+    max-width: 18vw;
+    min-height: 13vw;
+    max-height: 18vw;
+    min-width: 13vw;
+}
+
+.app-pagination-container {
+    margin: 18px 30px 24px;
+    min-height: 38px;
+    font-size: 5vw;
+}
+
+.app-pagination-container.row-1,
+.app-pagination-container.row-2,
+.app-pagination-container.row-3,
+.app-pagination-container.row-4 {
+    height: 38px;
+}
+
+.app-pagination {
+    display: table;
+}
+
+.app-pagination > span {
+    display: table-cell;
+    width: 40px;
+    vertical-align: middle;
+    height: 30px;
+}
+
+.app-pagination-prev {
+    padding-right: 30px;
+}
+
+.app-pagination-next {
+    padding-left: 30px;
+}
+
+.app-pagination > ul {
+    margin: 0 30px;
+}
+
+.app-pagination > ul > li {
+    display: none;
+}
+
+.app-pagination > ul > li.mobile-visible {
+    display: inline-block;
+    height: 8vw;
+    width: 8vw;
+    padding: 0;
+}
+
+.app-pagination > ul > li + li {
+    margin-left: 0;
+}
+
+.app-pagination > ul > li.mobile-visible + li.mobile-visible {
+    margin-left: 10px;
+}
