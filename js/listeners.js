@@ -201,8 +201,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var hash = MD5 (stringToHash);
     var baseUrl = 'https://gateway.marvel.com:443/v1/public/characters';
     var limit = 100;
-    var orderBy = name;
-    let url = baseUrl + '?orderBy=' + orderBy + '&limit=' + limit + '&ts=' + ts + '&apikey=' + publickey + '&hash=' + hash;
+    let url = baseUrl + '?orderBy=-modified' + '&limit=' + limit + '&ts=' + ts + '&apikey=' + publickey + '&hash=' + hash;
     // let marvelAPI = "https://gateway.marvel.com:443/v1/public/characters?orderBy=name&limit=40&apikey=2cf23289279155715c2ec1c7eff4649f";
 
     get("loading-status").update("Obtendo dados dos heróis...");
