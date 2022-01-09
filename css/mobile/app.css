@@ -19,7 +19,7 @@
 .app-title,
 .app-subtitle {
     line-height: 1.2em;
-    font-size: 16px;
+    font-size: 12px;
 }
 
 .app-line {
@@ -42,10 +42,11 @@
 .app-hero-list-header,
 .app-hero-list-row {
     display: block;
-    width: 100%;
+    width: 100%;    
 }
 
 .app-hero-list-header > div {
+    
     display: block;
     text-align: left;
     line-height: 37px;

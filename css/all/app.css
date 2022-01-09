@@ -87,8 +87,8 @@ html, body {
     text-transform: uppercase;
     display: inline-block;
     line-height: 1.2em;
-    font-size: 27px;
-    color: #D42026;
+    font-size: 20px;
+    color: #a71b1f;
     margin: 0;
 }
 
@@ -113,7 +113,7 @@ html, body {
 }
 
 .app-line div {
-    background-color: #D42026;
+    background-color: #a71b1f;
     height: 100%;
     width: 52px;
 }
@@ -132,7 +132,7 @@ html, body {
     line-height: 1.2em;
     font-weight: 400;
     font-size: 16px;
-    color: #D42026;
+    color: #a71b1f;
 }
 
 #search-container input {
@@ -155,7 +155,7 @@ html, body {
 }
 
 #search-container input:focus {
-    border: 1px solid #D42026;
+    border: 1px solid #a71b1f;
 }
 
 .app-hero-list {
@@ -171,12 +171,13 @@ html, body {
 .app-hero-list-header > div {
     display: inline-block;
     font-family: 'Roboto', sans-serif;
-    background-color: #D42026;
+    background-color: #a71b1f;
     line-height: 37px;
     font-weight: 400;
     padding: 0 12px;
     width: 25%;
     color: #fff;
+    border-radius: 5px;
 }
 
 .app-hero-list-header > div:last-child,
@@ -185,7 +186,7 @@ html, body {
 }
 
 .app-hero-list-row {
-    border-bottom: 2px solid rgba(255, 43, 43, 0.5);
+    border-bottom: 2px solid rgba(112, 20, 20, 0.5);
     font-family: 'Roboto', sans-serif;
     padding: 20px 0;
     height: 112px;
@@ -194,12 +195,12 @@ html, body {
 
 .app-hero-list-row:hover,
 .app-hero-list-row:focus {
-    background-color: rgba(212, 32, 38, 0.10);
+    background-color: rgba(191, 108, 31, 0.1);
 }
 
 .app-hero-list-row > div {
     line-height: 1.1em;
-    font-size: 21px;
+    font-size: 20px;
     padding: 0 12px;
     width: 25%;
 }
@@ -217,9 +218,10 @@ html, body {
 }
 
 .app-hero-list-row > div:first-child > div > img {
-    background-color: #A5A5A5;
+    background-color: #a59a9a;
+    box-shadow:rgb(0 0 0 / 15%) 1.95px 1.95px 2.6px;
     margin-right: 25px;
-    border-radius: 50%;
+    border-radius: 30%;
     width: 58px;
     height: 58px;
 }
@@ -232,6 +234,7 @@ html, body {
     min-height: 64px;
     display: flex;
     flex-grow: 1;
+    border-radius: 10px;
 
 
     -webkit-transition: all 200ms;
@@ -276,13 +279,13 @@ html, body {
 }
 
 .app-pagination > span {
-    color: rgba(212, 32, 38, 1);
+    color: #a71b1f;
     cursor: pointer;
     margin: 0 12px;
 }
 
 .app-pagination > span.disabled {
-    color: rgba(212, 32, 38, 0.35);
+    color: rgba(112, 20, 20, 0.5);
 }
 
 .app-pagination > ul {
@@ -292,12 +295,12 @@ html, body {
 }
 
 .app-pagination > ul > li {
-    border: 1px solid #D42026;
+    border: 1px solid #a71b1f;
     display: inline-block;
-    border-radius: 50%;
+    border-radius: 20%;
     line-height: 28px;
     cursor: pointer;
-    color: #D42026;
+    color: #a71b1f;
     height: 28px;
     width: 28px;
 }
@@ -307,14 +310,15 @@ html, body {
 }
 
 .app-pagination > ul > li.active {
-    background-color: #D42026;
+    background-color: #a71b1f;
     color: #fff;
 }
 
 #footer {
     font-family: 'Roboto', sans-serif;
-    border-bottom: 1px solid #D42026;
-    background-color: #D42026;
+    border-bottom: 1px solid #a71b1f;
+    border-radius: 5px;
+    background-color: #a71b1f;
     text-align: center;
     line-height: 12px;
     font-weight: 900;

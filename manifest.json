@@ -1,10 +1,10 @@
 {
   "name": "Objective | Busca Marvel: Teste Front-End",
-  "short_name": "Busca Marvel",
+  "short_name": "Busca Marvel API",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#D42026",
-  "description": "Busca Marvel - Teste front-end Objective | Luiz Felipe Apolinário.",
+  "description": "Busca Marvel API - Teste front-end Objective | Luiz Felipe Apolinário.",
   "icons": [{
     "src": "img/touch/favicon48.png",
     "sizes": "48x48",
