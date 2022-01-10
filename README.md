@@ -43,7 +43,8 @@ Segue o link para testar o site responsivo:
 
 ## Previews
 
-<iframe src="https://www.homehost.com.br"></iframe>
+![image2](https://user-images.githubusercontent.com/69319701/148829052-e8eb59cc-3693-4833-b4e3-7143ac445581.png)
+
 <img src="https://drive.google.com/file/d/1tAAq9n7fyH0VO5y8ob2yLFnmKpyVlkDa/view?usp=sharing">
 <img src"https://drive.google.com/file/d/1WkFZ6m0qiJH58blqCvdABMz77FJ26wpE/view?usp=sharing">
 <iframe src"https://www.dropbox.com/s/fews6yhcq91a7vi/image3.png?dl=0">
