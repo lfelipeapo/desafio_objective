@@ -25,6 +25,7 @@
     font-size: 12px;
     padding: 2.5px;
     display: inline-block;
+    transform: translateY(10px);
 }
 
 .app-title {
