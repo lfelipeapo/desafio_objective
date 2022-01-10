@@ -144,7 +144,8 @@ header > img {
 
 .app-line {
     height: 150px;
-    
+    width: 100%;
+
 }
 
 .app-line div {
