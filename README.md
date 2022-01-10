@@ -3,12 +3,14 @@ Desafio feito como participação a processo seletivo da empresa Objective e apr
 
 # Teste Objective Front-End Java
 
-Segue o teste técnico.
+Segue o teste técnico feito para a empresa conforme o cronograma abaixo:
 
-Tecnologias utilizadas
+
+
+## Tecnologias utilizadas
 Segue abaixo as tecnologias utilizadas no projeto:
 
-
+https://img.shields.io/badge/js-JavaScript-yellow https://img.shields.io/badge/css-4.15-purple 
 
 Build Status Build Status Build Status
 
@@ -22,7 +24,7 @@ Acesse o projeto online
 Segue um link <a href="https://objective-frontendjava.netlify.app">para avaliação online</a>:
 
 Responsive test
-Segue o link para testar o site responsivo
+Segue o link para testar o site responsivo 
 
 Browser Suport
 Chrome
