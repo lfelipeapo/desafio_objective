@@ -47,7 +47,7 @@
 }
 
     #detail-header > div > img {
-        border-radius: 40%;
+        border-radius: 20%;
         background: black;
         display: block;
         padding: 5px;
@@ -57,11 +57,14 @@
     }
 
     #detail-header > div > h1 {
-        padding: 90px 40px;
-        font-size: 30px;
+        padding: 70px 20px 20px 50px;
+        width: 180px;
+        font-size: 20px;
         display: block;
         float: left;
-        color: #fff;
+        color: #FFF;
+        justify-content: center;
+        text-align: center;
     }
 
     #detail-header > h3 {

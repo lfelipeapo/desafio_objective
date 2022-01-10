@@ -31,10 +31,9 @@
 
 #detail-header > div > h1 {
     text-align: center;
-    font-size: 25px;
-    margin-left: 50px;
+    margin: 50px 60px 10px;
     padding: auto;
-    display: block;
+    display: static;
     align-content: center;
     justify-content: center;
     float: initial;
