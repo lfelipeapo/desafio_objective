@@ -92,12 +92,12 @@ self.addEventListener('fetch', function (event) {
 
                 // If not available, fetch from network
                 return fetch(event.request.clone()).then(function (response) {
-                    if(request.url.match("^(http|https)://")){
+                    // if(!event.request.url.startsWith('http')){
                         if (response.status < 400) {
                             // Save response on cache
                             cache.put(event.request, response.clone());
                         }
-                    }                   
+                    // }                   
                     else {
                         console.log('Não foi possível salvar em cache a requisição: %s', event.request.url);
                     }
