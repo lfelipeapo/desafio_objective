@@ -6,7 +6,11 @@ Desenvolver uma SPA (Single Page Application) com o interesse de criar busca de 
 
 # Teste Objective Front-End Java
 
-Segue o teste técnico.
+## Cronograma
+
+<li>Primeiro dia: Construi a estrutura back-end e pesquisei na documentação da API para verificar como funcionava a integração.</li>
+<li>Segundo dia: Realizei a integração da API com o sistema de busca online e offline, desenvolvi o css e realizei alguns testes iniciais.</li>
+<li>Terceiro dia: Finalizei o css e fiz os devidos testes de responsividade do site, alterei algumas coisas no css inicial que criei e finalizei a aplicação.</>
 
 ## Tecnologias utilizadas
 Segue abaixo as tecnologias utilizadas no projeto:
