@@ -36,10 +36,10 @@ Segue o link para testar o site responsivo:
 
 ## Browser Suport:
 
-<td>Chrome</td>
-<td>Edge</td>
-<td>Firefox</td>
-<td>Opera</td>
+<li>Chrome</li>
+<li>Edge</li>
+<li>Firefox</li>
+<li>Opera</li>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
