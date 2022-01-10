@@ -43,8 +43,8 @@ Segue o link para testar o site responsivo:
 
 ## Previews
 
-![image2](https://user-images.githubusercontent.com/69319701/148829052-e8eb59cc-3693-4833-b4e3-7143ac445581.png)
+<div align="center">![image2](https://user-images.githubusercontent.com/69319701/148829052-e8eb59cc-3693-4833-b4e3-7143ac445581.png)
 ![image3](https://user-images.githubusercontent.com/69319701/148829446-88c0b676-f2bc-4815-b307-a58fe4a614a1.png)
 ![image4](https://user-images.githubusercontent.com/69319701/148829523-0a7057e2-9a5b-47d6-a164-70b7867d8c7e.png)
-![image1](https://user-images.githubusercontent.com/69319701/148829484-1e5ded93-e3d2-4a96-a261-c5760fe3b0b5.png)
+![image1](https://user-images.githubusercontent.com/69319701/148829484-1e5ded93-e3d2-4a96-a261-c5760fe3b0b5.png)</div>
 
