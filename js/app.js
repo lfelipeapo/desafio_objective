@@ -321,7 +321,7 @@ function render(url) {
                     idSerie = "detail-serie-" + s.resourceURI.toString().split("/").slice(-1).toString().trim();
 
                     setTimeout(function(){
-                        fetch(s.resourceURI.toString().replace("http://", "https://") + "?apikey=2cf23289279155715c2ec1c7eff4649f").then(r => r.json()).then(function(json){
+                        fetch(s.resourceURI.toString().replace("http://", "https://") + "?apikey=745b367fe628aa6624d02c6613080f94").then(r => r.json()).then(function(json){
                             let data = json.data.results[0];
                             get("detail-serie-" + data.id).update(new Element({
                                 properties: {
@@ -415,7 +415,7 @@ function render(url) {
                     idEvent = "detail-event-" + s.resourceURI.toString().split("/").slice(-1).toString().trim();
 
                     setTimeout(function(){
-                        fetch(s.resourceURI.toString().replace("http://", "https://") + "?apikey=2cf23289279155715c2ec1c7eff4649f").then(r => r.json()).then(function(json){
+                        fetch(s.resourceURI.toString().replace("http://", "https://") + "?apikey=745b367fe628aa6624d02c6613080f94").then(r => r.json()).then(function(json){
                             let data = json.data.results[0];
                             console.log(data);
                             get("detail-event-" + data.id).update(new Element({
