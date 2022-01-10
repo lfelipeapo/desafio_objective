@@ -44,8 +44,7 @@ Segue o link para testar o site responsivo:
 ## Previews
 
 ![image2](https://user-images.githubusercontent.com/69319701/148829052-e8eb59cc-3693-4833-b4e3-7143ac445581.png)
+<img src"https://drive.google.com/file/d/1WkFZ6m0qiJH58blqCvdABMz77FJ26wpE/view?usp=sharing">![image3](https://user-images.githubusercontent.com/69319701/148829446-88c0b676-f2bc-4815-b307-a58fe4a614a1.png)
+![image1](https://user-images.githubusercontent.com/69319701/148829484-1e5ded93-e3d2-4a96-a261-c5760fe3b0b5.png)
+![image4](https://user-images.githubusercontent.com/69319701/148829523-0a7057e2-9a5b-47d6-a164-70b7867d8c7e.png)
 
-<img src="https://drive.google.com/file/d/1tAAq9n7fyH0VO5y8ob2yLFnmKpyVlkDa/view?usp=sharing">
-<img src"https://drive.google.com/file/d/1WkFZ6m0qiJH58blqCvdABMz77FJ26wpE/view?usp=sharing">
-<iframe src"https://www.dropbox.com/s/fews6yhcq91a7vi/image3.png?dl=0">
-<iframe src"https://previews.dropbox.com/p/thumb/ABZr5yEGFbP451f-5_V1pJYCIHJCYi2vWMi_CPXQtGXEh4nLSxlcwXB9qfIct4wSp7OnCi9QnwVHbJ0THoBi3ymb_TiJgNU1AzAzbo_kl1SbSxOoptwad_0b0iP3HJZI4SNYwEVV8qrM50xP3XmXzgZdJ_9VsdAsHirk77kykgs8gTlaCbGsqK5up2lID_74bIsxtksN0STYiD5eMFedIN1oRN1e0uB0BRDecvu6y0iR2I90TKD_vCP-Rzt40S8KuwwljwbuYWG1HXU2RW6fYR0PqmJyFBngrQ447EdCdrOqAsfS1vgdTp_nMwZhWvng8v1RiiEtRIlH7ZpyVCoCqB278iO_2xRSmhxcPKJDXVp0ww/p.png">
