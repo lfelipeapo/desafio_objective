@@ -46,4 +46,4 @@ Segue o link para testar o site responsivo:
 <img src="https://photos.app.goo.gl/nUAvCPNnq4gw47to6">
 <img src"https://photos.app.goo.gl/k9bcDD4hpdKgxe32A">
 <img src"https://photos.app.goo.gl/kCZfZhs848WTYu3E8">
-<img src"https://photos.app.goo.gl/tYthTvq6Q4hrSJLU8">
+<img src"https://lh3.googleusercontent.com/pw/AM-JKLXpfao-_B4C80uw-RXyTg3WLi4mc1iQ-3HSw1Q9Ysf-evaia0hsjce2iSuXIP4xshGFgZRISRA5fXoG3Vlq4PukSLta0i2ebrb67vQMoojDQ8fuPAsYDcLLDUKkj83NCsrKB69tcuTLIbTC4ScRPtOZ=w281-h522-no?authuser=0">
