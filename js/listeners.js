@@ -194,15 +194,15 @@
   };
 
 document.addEventListener("DOMContentLoaded", function () {
-    var publickey = '2cf23289279155715c2ec1c7eff4649f';
-    var privatekey = '0a8834c5a935b4070703fe673cd564b65ee77a51';
+    var publickey = '745b367fe628aa6624d02c6613080f94';
+    var privatekey = '8319bbac6f08143f23c179dc37a77371d4bb89b2';
     var ts = new Date().getTime();
     var stringToHash = ts + privatekey + publickey;
     var hash = MD5 (stringToHash);
     var baseUrl = 'https://gateway.marvel.com:443/v1/public/characters';
     var limit = 20;
     let url = baseUrl + '?orderBy=name' + '&limit=' + limit + '&ts=' + ts + '&apikey=' + publickey + '&hash=' + hash;
-    // let marvelAPI = "https://gateway.marvel.com:443/v1/public/characters?orderBy=name&limit=40&apikey=2cf23289279155715c2ec1c7eff4649f";
+    // let marvelAPI = "https://gateway.marvel.com:443/v1/public/characters?orderBy=name&limit=40&apikey=745b367fe628aa6624d02c6613080f94";
 
     get("loading-status").update("Obtendo dados dos heróis...");
 
