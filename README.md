@@ -46,4 +46,4 @@ Segue o link para testar o site responsivo:
 <img src="https://www.dropbox.com/s/rw9cuwrmurqb0k8/image1.png?dl=0">
 <img src"https://www.dropbox.com/s/xxavzbp17i30bt9/image2.png?dl=0">
 <img src"https://www.dropbox.com/s/fews6yhcq91a7vi/image3.png?dl=0">
-<img src"https://www.dropbox.com/s/2gc8dxzrjtjr1fg/image4.png?dl=0">
+<img src"https://previews.dropbox.com/p/thumb/ABZr5yEGFbP451f-5_V1pJYCIHJCYi2vWMi_CPXQtGXEh4nLSxlcwXB9qfIct4wSp7OnCi9QnwVHbJ0THoBi3ymb_TiJgNU1AzAzbo_kl1SbSxOoptwad_0b0iP3HJZI4SNYwEVV8qrM50xP3XmXzgZdJ_9VsdAsHirk77kykgs8gTlaCbGsqK5up2lID_74bIsxtksN0STYiD5eMFedIN1oRN1e0uB0BRDecvu6y0iR2I90TKD_vCP-Rzt40S8KuwwljwbuYWG1HXU2RW6fYR0PqmJyFBngrQ447EdCdrOqAsfS1vgdTp_nMwZhWvng8v1RiiEtRIlH7ZpyVCoCqB278iO_2xRSmhxcPKJDXVp0ww/p.png">
