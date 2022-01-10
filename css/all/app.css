@@ -106,14 +106,13 @@ header > img {
 }
 
 .app-title, .app > img {
-    color: #ffffff;
+    color:  #a71b1f;
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
     float:left;
     position: absolute;
     justify-self: center;
     margin-top: 45px;
-    padding: 15px;
     display: inline-flexbox;
 }
 
@@ -143,7 +142,7 @@ header > img {
 }
 
 .app-line {
-    height: 150px;
+    height: 4px;
     width: 100%;
 
 }
@@ -373,4 +372,6 @@ header > img {
 
 #copyright {
     margin: auto;
+    padding: 2.5px;
+;
 }
