@@ -1,14 +1,17 @@
 # Objective Frontend Java
 Desafio feito como participação ao processo seletivo da empresa Objective e apresentar o desenvolvimento web front web Java à empresa com base em modelo de site responsivo e que se basea-se na API MARVEL.
 
-Objetivo: Desenvolver uma SPA (Single Page Application) com o interesse de criar busca de personagens Marvel e exibir resultados em tela com três eventos e três séries em que o mesmo participado (caso tenha participado).
+## Objetivo
+Desenvolver uma SPA (Single Page Application) com o interesse de criar busca de personagens Marvel e exibir resultados em tela com três eventos e três séries em que o mesmo participado (caso tenha participado).
 
 # Teste Objective Front-End Java
 
 Segue o teste técnico.
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 Segue abaixo as tecnologias utilizadas no projeto:
+ 
+<img src="https://img.shields.io/badge/js-JavaScript-yellow"> <img src"https://img.shields.io/badge/css-4.15-purple"> 
 
 
 
