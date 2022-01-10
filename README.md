@@ -10,7 +10,7 @@ Segue o teste técnico feito para a empresa conforme o cronograma abaixo:
 ## Tecnologias utilizadas
 Segue abaixo as tecnologias utilizadas no projeto:
 
-https://img.shields.io/badge/js-JavaScript-yellow https://img.shields.io/badge/css-4.15-purple 
+<img src="https://img.shields.io/badge/js-JavaScript-yellow"> <img src="https://img.shields.io/badge/css-4.15-purple"> 
 
 Build Status Build Status Build Status
 
