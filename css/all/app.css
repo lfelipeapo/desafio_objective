@@ -81,14 +81,25 @@ html, body {
     display: none;
 }
 
+img {
+    
+    justify-content:center;
+    margin: 0;
+    padding: 0;
+    display: inline;
+
+}
+
 .app-subtitle,
-.app-developer {
+.app-developer,
+.icon-cb {
     text-transform: uppercase;
     display: inline-block;
     line-height: 1.2em;
     font-size: 20px;
     color: #a71b1f;
     margin: 0;
+    padding: 5px;
 }
 
 .app-title, .app > img {
@@ -99,16 +110,23 @@ html, body {
     position: absolute;
     margin-top: 20px;
     padding-bottom: 20px;
-    display: flexbox;
+    display: inline-flexbox;
 }
 
 .app-subtitle {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     float: right;
+    font-weight: bold;
 }
 
 .app-developer {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    float: right;
+}
+
+.icon-cb {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     float: right;

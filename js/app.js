@@ -77,6 +77,13 @@ function render(url) {
                         properties: {
                             className: "app-developer hide-on-mobile"
                         }
+                    }),
+                    new Element({
+                        type: "h4",
+                        content: "CB",
+                        properties: {
+                            className: "icon-cb"
+                        }
                     })                    
                 ]
             }, page);

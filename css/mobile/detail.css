@@ -25,14 +25,17 @@
 
 #detail-header > div > img {
     margin: 20px auto;
+    justify-content: center;
     float: inherit;
 }
 
 #detail-header > div > h1 {
     text-align: center;
     font-size: 25px;
-    margin: 0 auto;
-    padding: 20px;
+    margin: 20px auto;
+    padding: auto;
+    align-content: center;
+    justify-content: center;
     float: inherit;
 }
 
