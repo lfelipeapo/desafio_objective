@@ -85,7 +85,7 @@ header {
     display: none;
 }
 
-img {
+header > img {
     width: 50px;
     justify-content:center;
     display: center;
