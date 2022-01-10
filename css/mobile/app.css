@@ -17,21 +17,36 @@
 }
 
 .app-title,
-.app-subtitle
-.icon-cb {
+.app-subtitle,
+.app-developer,
+.icon-cb 
+{
     line-height: 1.2em;
-    font-size: 16px;
-    padding: 1px;
-    float: right;
+    font-size: 12px;
+    padding: 2.5px;
+    display: inline-block;
 }
 
+.app-title {
+    font-weight: bold;
+    font-size: 20px;
+    float: left;
+    display: flex;
+    padding: 0;
+    }
+
+.icon-cb {
+
+    padding-left: 2px;
+
+}    
+
 .app-line {
-    padding: 0 40px;
-    height: 2px;
+    height: 100px;
 }
 
 .app-line div {
-    width: 52px;
+    width: 100%;
 }
 
 #search-container {
@@ -40,6 +55,11 @@
 
 #search-container input {
     width: 100%;
+}
+
+#search-container label {
+
+    margin-top: 45px;
 }
 
 .app-hero-list-header,

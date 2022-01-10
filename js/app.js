@@ -65,26 +65,26 @@ function render(url) {
                         }
                     }),
                     new Element({
+                        type: "h4",
+                        content: "CB",
+                        properties: {
+                            className: "icon-cb"
+                        }
+                    }),  
+                    new Element({
                         type: "h2",
                         content: "Teste front-end",
                         properties: {
-                            className: "app-subtitle"
+                            className: "app-subtitle hide-on-mobile"
                         }
                     }),
                     new Element({
                         type: "h3",
                         content: "Luiz Felipe Apolinário",
                         properties: {
-                            className: "app-developer hide-on-mobile"
+                            className: "app-developer"
                         }
-                    }),
-                    new Element({
-                        type: "h4",
-                        content: "CB",
-                        properties: {
-                            className: "icon-cb"
-                        }
-                    })                    
+                    }),               
                 ]
             }, page);
 

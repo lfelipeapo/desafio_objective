@@ -19,6 +19,10 @@ html, body {
     align-items: stretch;
 }
 
+header {
+    margin-bottom: 20px;
+}
+
 #root > div#app {
     padding: 20px 42px 0 42px;
     display: flex;
@@ -82,11 +86,9 @@ html, body {
 }
 
 img {
-    
+    width: 50px;
     justify-content:center;
-    margin: 0;
-    padding: 0;
-    display: inline;
+    display: center;
 
 }
 
@@ -103,13 +105,14 @@ img {
 }
 
 .app-title, .app > img {
-    color: #a71b1f;
+    color: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
     float:left;
     position: absolute;
-    margin-top: 20px;
-    padding-bottom: 20px;
+    justify-self: center;
+    margin-top: 45px;
+    padding: 15px;
     display: inline-flexbox;
 }
 
@@ -117,31 +120,37 @@ img {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     float: right;
-    font-weight: bold;
-}
+    }
 
 .app-developer {
     font-family: 'Roboto', sans-serif;
-    font-weight: 300;
+    font-weight: bold;
     float: right;
+
 }
 
 .icon-cb {
     font-family: 'Roboto', sans-serif;
-    font-weight: 300;
+    font-weight: bold;
     float: right;
+    background: #E5E5E5;
+    border-radius: 5px;
+}
+
+.icon-cb:hover {
+    background: rgba(191, 108, 31, 0.1);
 }
 
 .app-line {
-    height: 4px;
-
+    height: 100px;
+    
 }
 
 .app-line div {
     background-color: #a71b1f;
     height: 100%;
-    width: 55px;
-}
+    width: 100%;
+    }
 
 #search-container {
     padding: 34px 0;
@@ -159,6 +168,7 @@ img {
     font-size: 16px;
     color: #a71b1f;
     margin-top: 30px;
+    padding-bottom: 5px; 
 }
 
 #search-container input {
