@@ -81,7 +81,6 @@ html, body {
     display: none;
 }
 
-.app-title,
 .app-subtitle,
 .app-developer {
     text-transform: uppercase;
@@ -92,14 +91,21 @@ html, body {
     margin: 0;
 }
 
-.app-title {
+.app-title, .app > img {
+    color: #a71b1f;
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
+    float:left;
+    position: absolute;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    display: flexbox;
 }
 
 .app-subtitle {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+    float: right;
 }
 
 .app-developer {
@@ -110,12 +116,13 @@ html, body {
 
 .app-line {
     height: 4px;
+
 }
 
 .app-line div {
     background-color: #a71b1f;
     height: 100%;
-    width: 52px;
+    width: 55px;
 }
 
 #search-container {
@@ -133,6 +140,7 @@ html, body {
     font-weight: 400;
     font-size: 16px;
     color: #a71b1f;
+    margin-top: 30px;
 }
 
 #search-container input {

@@ -44,8 +44,22 @@ function render(url) {
                 },
                 content: [
                     new Element({
+                        type: "a",
+                        properties: {
+                            href:"https://www.objective.com.br/",
+                            target:"_blank"
+                            }
+                    }), 
+                        new Element({
+                            type:"img",
+                                properties: {
+                                    src: "img/logo-obj.png",
+                                    alt:"Logo Objective Solutions",
+                                }
+                            }),
+                    new Element({
                         type: "h1",
-                        content: "Hero Search Marvel",
+                        content: "Busca Herói Marvel",
                         properties: {
                             className: "app-title"
                         }
@@ -63,7 +77,7 @@ function render(url) {
                         properties: {
                             className: "app-developer hide-on-mobile"
                         }
-                    })
+                    })                    
                 ]
             }, page);
 
