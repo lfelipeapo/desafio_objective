@@ -92,7 +92,8 @@ self.addEventListener('fetch', function (event) {
 
                 // If not available, fetch from network
                 return fetch(event.request.clone()).then(function (response) {
-                    if(request.url.match("^(http|https)://")) {
+                    if(request.url.match("^(http|https)://")){
+                        if (response.status < 400) {
                             // Save response on cache
                             cache.put(event.request, response.clone());
                         }
