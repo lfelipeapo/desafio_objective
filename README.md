@@ -11,7 +11,7 @@ Segue o teste técnico.
 ## Tecnologias utilizadas
 Segue abaixo as tecnologias utilizadas no projeto:
  
-<img src="https://img.shields.io/badge/js-JavaScript-yellow"> <img src"https://img.shields.io/badge/css-4.15-purple" > 
+<img src="https://img.shields.io/badge/js-JavaScript-yellow"> <img src="https://img.shields.io/badge/css-4.15-purple"> 
 
 
 
