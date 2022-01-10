@@ -92,21 +92,20 @@ self.addEventListener('fetch', function (event) {
 
                 // If not available, fetch from network
                 return fetch(event.request.clone()).then(function (response) {
-                    
-                    caches.open(version) .then(function (cache) {
-                        
-                        if(request.url.match("^(http|https)://")){ cache.put(request, copy); }
-                    
-                        else {
-                            console.log('Não foi possível salvar em cache a requisição: %s', event.request.url);
+                    if(request.url.match("^(http|https)://")) {
+                            // Save response on cache
+                            cache.put(event.request, response.clone());
                         }
-                        return response;
-                    });
-                    
-                }).catch(function (error) {
-                    console.error('Não foi possível obter o conteúdo via cache nem via internet: %O', error);
-                    console.error('Request: %O', event.request.clone());
+                    }                   
+                    else {
+                        console.log('Não foi possível salvar em cache a requisição: %s', event.request.url);
+                    }
+                    return response;
                 });
+            }).catch(function (error) {
+                console.error('Não foi possível obter o conteúdo via cache nem via internet: %O', error);
+                console.error('Request: %O', event.request.clone());
+                // throw error;
             });
         })
     );
