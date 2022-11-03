@@ -1,10 +1,10 @@
-# Objective Frontend Java
+# Objective Frontend JavaScript
 Desafio feito como participação ao processo seletivo da empresa Objective e apresentar o desenvolvimento web front web Java à empresa com base em modelo de site responsivo e que se basea-se na API MARVEL.
 
 ## Objetivo
 Desenvolver uma SPA (Single Page Application) com o interesse de criar busca de personagens Marvel e exibir resultados em tela com três eventos e três séries em que o mesmo participado (caso tenha participado).
 
-# Teste Objective Front-End Java
+# Teste Objective Front-End JavaScrit
 
 ## Cronograma
 
